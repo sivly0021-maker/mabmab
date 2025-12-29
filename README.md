@@ -1,47 +1,44 @@
-# Valentine's Day Interactive Website (CodeKage)
+# Will you be my valentine?
 
-Thank you to [@mewtru](https://instagram.com/mewtru) for the video idea!
+**Valentine Page Creator**: https://i143.xyz/create
 
-This code was completely created from scratch! utilising Tailwind CSS!
 
-Make this Valentine's Day unforgettable with a charming and interactive web experience. This website allows you to ask the big question, "Will you be my Valentine?" in a unique and playful manner. With cute GIFs that change with responses and dynamic "Yes" and "No" buttons, it's designed to bring a smile and possibly a "Yes!" to someone special.
+## Custom Templates
+Click on the template of your choice, and create your valentine pages under 1 minute. : https://i143.xyz/templates
 
-## Features
+- **100% Free**. 🆓
+- Easy to Use. **No Codeing** required. 🎉
+- With **custom subdomain** of your choice (Obviously not claimed by anyone else). 🌍
+- With **custom texts** of your choice. 💬
+- With **custom images** of your choice. 👩‍❤️‍👨
+- With **40 Beautiful** templates to start from. 🤩
 
-- **Interactive Buttons**: Engage with "Yes" and "No" buttons that dynamically respond to user input.
-- **Cute GIFs**: Enjoy a selection of heartwarming GIFs that change based on the user's interaction.
-- **Tailwind CSS**: Stylish design and responsive layout powered by Tailwind CSS for a modern and mobile-friendly interface.
-- **JavaScript Magic**: Experience the joy of interaction with JavaScript that brings the website to life.
 
-## How It Works
+# Demo
+Github Pages : https://saurabhnemade.github.io/will-you-be-my-valentine/
 
-- The user is greeted with a cute GIF and the question "Will you be my Valentine?".
-- Responding "No" changes the GIF and modifies the size and text of the buttons, adding a playful element to convince the user to reconsider.
-- A "Yes" click celebrates the moment with a special GIF and triggers a confetti animation, hiding the response buttons.
 
-## Setup
+# Description
+This is a fun project for valentines day to bring smile on face of your special person!!
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CodeKageHQ/Ask-out-your-Valentine
-   ```
-3. Open ```index.html``` in your browser to view the website.
+This project is inspired from
+https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
 
-No additional setup is required, as Tailwind CSS is included via CDN and JavaScript is embedded within the HTML.
+# How to start
+```
+npm install -g pnpm
+pnpm i
+pnpm run dev
+```
 
-## Technologies Used
+# Preview
 
-- HTML5
-- Tailwind CSS
-- JavaScript
-- [canvas-confetti](https://www.npmjs.com/package/canvas-confetti) for the confetti effect
+![image description](demo.gif)
 
-## Contributions
 
-Feel the love? Contributions are welcome! Whether it's a new GIF suggestion, design improvements, or code optimisation, feel free to fork the repository and submit a pull request.
+# How to deploy it
+```
+pnpm run deploy
+```
 
-## License
-
-This project is open source and available under [MIT License](LICENSE).
-
-Happy Valentine's Day! Let's spread the love ❤️.
+Made with ❤️ in Berlin!
